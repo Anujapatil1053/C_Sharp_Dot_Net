@@ -1,0 +1,12 @@
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\bin\Debug\Emp_MGT_System.exe.config
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\bin\Debug\Emp_MGT_System.exe
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\bin\Debug\Emp_MGT_System.pdb
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\obj\Debug\Emp_MGT_System.csproj.AssemblyReference.cache
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\obj\Debug\Emp_MGT_System.frm_Login.resources
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\obj\Debug\Emp_MGT_System.frm_Add_New_Employe.resources
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\obj\Debug\Emp_MGT_System.Properties.Resources.resources
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\obj\Debug\Emp_MGT_System.csproj.GenerateResource.cache
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\obj\Debug\Emp_MGT_System.csproj.CoreCompileInputs.cache
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\obj\Debug\Emp_MGT_System.exe
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\obj\Debug\Emp_MGT_System.pdb
+A:\C#\Assignment01\EMP_APP\Emp_MGT_System\obj\Debug\Emp_MGT_System.frm_View_Employee_List.resources
