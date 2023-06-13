@@ -1,0 +1,45 @@
+A:\C#\Practice Assignment\Student_Management_System\bin\Debug\Student_Management_System.exe.config
+A:\C#\Practice Assignment\Student_Management_System\bin\Debug\Student_Management_System.exe
+A:\C#\Practice Assignment\Student_Management_System\bin\Debug\Student_Management_System.pdb
+A:\C#\Practice Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.AssemblyReference.cache
+A:\C#\Practice Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_Add_Student_Details.resources
+A:\C#\Practice Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_Student_Login.resources
+A:\C#\Practice Assignment\Student_Management_System\obj\Debug\Student_Management_System.Properties.Resources.resources
+A:\C#\Practice Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.GenerateResource.cache
+A:\C#\Practice Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.CoreCompileInputs.cache
+A:\C#\Practice Assignment\Student_Management_System\obj\Debug\Student_Management_System.exe
+A:\C#\Practice Assignment\Student_Management_System\obj\Debug\Student_Management_System.pdb
+A:\C#\Practice Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_View_Student_Details_List.resources
+A:\C#\Assignment 03\Student_Management_System\bin\Debug\Student_Management_System.exe.config
+A:\C#\Assignment 03\Student_Management_System\bin\Debug\Student_Management_System.exe
+A:\C#\Assignment 03\Student_Management_System\bin\Debug\Student_Management_System.pdb
+A:\C#\Assignment 03\Student_Management_System\obj\Debug\Student_Management_System.csproj.AssemblyReference.cache
+A:\C#\Assignment 03\Student_Management_System\obj\Debug\Student_Management_System.frm_Add_Student_Details.resources
+A:\C#\Assignment 03\Student_Management_System\obj\Debug\Student_Management_System.frm_Student_Login.resources
+A:\C#\Assignment 03\Student_Management_System\obj\Debug\Student_Management_System.frm_Search_Student_Details.resources
+A:\C#\Assignment 03\Student_Management_System\obj\Debug\Student_Management_System.frm_Update_Student_Details.resources
+A:\C#\Assignment 03\Student_Management_System\obj\Debug\Student_Management_System.frm_View_Student_Details_List.resources
+A:\C#\Assignment 03\Student_Management_System\obj\Debug\Student_Management_System.Properties.Resources.resources
+A:\C#\Assignment 03\Student_Management_System\obj\Debug\Student_Management_System.csproj.GenerateResource.cache
+A:\C#\Assignment 03\Student_Management_System\obj\Debug\Student_Management_System.csproj.CoreCompileInputs.cache
+A:\C#\Assignment 03\Student_Management_System\obj\Debug\Student_Management_System.exe
+A:\C#\Assignment 03\Student_Management_System\obj\Debug\Student_Management_System.pdb
+A:\C#\03_Assignment\Student_Management_System\bin\Debug\Student_Management_System.exe.config
+A:\C#\03_Assignment\Student_Management_System\bin\Debug\Student_Management_System.exe
+A:\C#\03_Assignment\Student_Management_System\bin\Debug\Student_Management_System.pdb
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.AssemblyReference.cache
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_Add_Student_Details.resources
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_Student_Login.resources
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_Search_Student_Details.resources
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_Update_Student_Details.resources
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.Properties.Resources.resources
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.GenerateResource.cache
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.CoreCompileInputs.cache
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.exe
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.pdb
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.MDI_Student_App.resources
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_Add_Course.resources
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_Courses_List.resources
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_View_Student_Details.resources
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_Add_Course_Details.resources
+A:\C#\03_Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_Courses_List_Details.resources
