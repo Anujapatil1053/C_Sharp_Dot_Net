@@ -1,0 +1,10 @@
+A:\C-Sharp .Net\05 Assignment\Controls_Assignment\bin\Debug\Controls_Assignment.exe.config
+A:\C-Sharp .Net\05 Assignment\Controls_Assignment\bin\Debug\Controls_Assignment.exe
+A:\C-Sharp .Net\05 Assignment\Controls_Assignment\bin\Debug\Controls_Assignment.pdb
+A:\C-Sharp .Net\05 Assignment\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.AssemblyReference.cache
+A:\C-Sharp .Net\05 Assignment\Controls_Assignment\obj\Debug\Controls_Assignment.Properties.Resources.resources
+A:\C-Sharp .Net\05 Assignment\Controls_Assignment\obj\Debug\Controls_Assignment.Windows_Tools.resources
+A:\C-Sharp .Net\05 Assignment\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.GenerateResource.cache
+A:\C-Sharp .Net\05 Assignment\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.CoreCompileInputs.cache
+A:\C-Sharp .Net\05 Assignment\Controls_Assignment\obj\Debug\Controls_Assignment.exe
+A:\C-Sharp .Net\05 Assignment\Controls_Assignment\obj\Debug\Controls_Assignment.pdb
